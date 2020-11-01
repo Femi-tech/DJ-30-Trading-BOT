@@ -108,14 +108,14 @@ We create algorithm trading by EC2 (AWS) and link to Alpaca paper trade account.
 
 Algo cide connecting to EC2 AWS.
 
-![EC2](Images/Algo-code-connection-to-EC2.PNG)
+![EC2](Images/Algo-code-connection-to-EC2.png)
 
 Code testint in terminal
 
-![Termonal](Images/Terminal-test.PNG)
+![Termonal](Images/Terminal-test.png)
 
 Alpaca paper trade account.
 
-![Alpaca](Images/Alpaca-Trade-Paper-Account-order-placed-test.PNG)
+![Alpaca](Images/Alpaca-Trade-Paper-Account-order-placed-test.png)
 
 
